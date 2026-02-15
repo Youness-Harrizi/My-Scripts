@@ -1,1 +1,0 @@
-# Nmap 7.80 scan initiated Mon Mar 20 22:04:56 2023 as: nmap -O -Pn -p- -oN nmap/all_ports -vvv 8.8.8.8
